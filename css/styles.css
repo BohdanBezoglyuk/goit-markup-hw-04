@@ -243,10 +243,6 @@ body {
   display: flex;
 }
 
-.div-benefits {
-  border: 1px solid #8e8f99;
-}
-
 .benefits-list-item {
   flex-basis: calc((100% - 72px) / 4);
 }
@@ -263,6 +259,7 @@ body {
   background-color: #f4f4fd;
   border-radius: 4px;
   margin-bottom: 8px;
+  border: 1px solid #8e8f99;
 }
 
 /* Section Our Team */
